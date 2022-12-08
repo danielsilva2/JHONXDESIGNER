@@ -406,9 +406,6 @@ section {
 /*--------------------------------------------------------------
 # Modelos
 --------------------------------------------------------------*/
-#modelos{
-  background:url(/assets/img/bg/bg2.png);
-}
 .modelos .content h3 {
   font-weight: 700;
   font-size: 32px;
@@ -472,9 +469,6 @@ section {
 /*--------------------------------------------------------------
 # Motion
 --------------------------------------------------------------*/
-#motion{
-  background:url(/assets/img/bg/bg3.png);
-}
 .motion .content h3 {
   font-weight: 700;
   font-size: 32px;
